@@ -1,0 +1,95 @@
+body {
+    background-color: lightgrey;
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+section {
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 5px;
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding: 10px;
+    padding-bottom: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+    color: crimson;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: xx-large;
+    font-family: 'Open Sans', sans-serif;
+}
+
+h2 {
+    text-align: center;
+    color: grey;
+}
+
+h3 {
+    text-align: center;
+    color: grey;
+}
+
+p {
+    text-align: center;
+    color: grey;
+    word-spacing: 3px;
+    text-align: justify;
+    text-justify: inter-word;
+    line-height: 200%;
+    padding: 15px;
+}
+
+ul {
+    list-style-type: none;
+    display: inline-block;
+}
+
+.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    color: lightgray;
+  }
+
+li {
+    display: inline;
+}
+
+img.Portrait {
+    border-radius: 50%;
+    border: 5px solid lightgrey;
+}
+
+.His {
+    background-color:lightgrey;
+}
+
+.btn-red {
+    padding: 15px;
+   border:0.1em solid crimson;
+   margin: 10px;
+    border-radius:0.12em;
+   box-sizing: border-box;
+   text-decoration:none;
+   font-weight: bold;
+   color:white;
+   background-color: crimson;
+   border-radius: 3px;
+   text-align: center;
+   
+   
+}
+
+.buttonText {
+    font-weight: bolder;
+}
+
